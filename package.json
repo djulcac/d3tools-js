@@ -1,5 +1,5 @@
 {
-  "name": "d3tools",
+  "name": "@djulcac/d3tools",
   "version": "0.0.1",
   "description": "Tools",
   "main": "src/index.js",
