@@ -1,0 +1,22 @@
+{
+  "name": "d3tools",
+  "version": "0.0.1",
+  "description": "Tools",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djulcac/d3tools-js.git"
+  },
+  "keywords": [
+    "tools"
+  ],
+  "author": "Danny Julca C.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/djulcac/d3tools-js/issues"
+  },
+  "homepage": "https://github.com/djulcac/d3tools-js#readme"
+}
